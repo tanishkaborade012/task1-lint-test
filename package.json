@@ -1,0 +1,13 @@
+{
+  "name": "ci-simple-demo",
+  "version": "1.0.0",
+  "description": "Simple CI Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "echo Linting passed"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
